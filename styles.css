@@ -92,10 +92,10 @@ img{
 .testimonial-card1, .testimonial-card2, .testimonial-card3 {
   background: hsl(300, 43%, 22%);
   color: white;
-  height: 300px;
+  height: 280px;
   border-radius: 5px;
   text-align: left;
-  width: 530px ;
+  width: 400px ;
 }
 
 .card-name-img {
@@ -131,10 +131,10 @@ img{
 .testimonial-card1{ transform: translate(0px, -150px);}
 
 
-.testimonial-card2{transform: translate(580px, -410px);}
+.testimonial-card2{transform: translate(430px, -410px);}
 
 
-.testimonial-card3{transform: translate(1160px, -660px);}
+.testimonial-card3{transform: translate(865px, -660px);}
 
 
 {}
